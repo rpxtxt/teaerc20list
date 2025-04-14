@@ -14,6 +14,14 @@
       "symbol": "POLC",
       "logoURI": "https://raw.githubusercontent.com/rpxtxt/teaerc20list/refs/heads/main/crycapital.png",
       "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0x24aDbf4eb6bC731dE8b60E422f9006991Bec7a77",
+      "name": "SONIC",
+      "symbol": "SONIC",
+      "logoURI": "https://raw.githubusercontent.com/rpxtxt/teaerc20list/refs/heads/main/sonic.jpg",
+      "decimals": 18
     }
   ],
   "version": {
