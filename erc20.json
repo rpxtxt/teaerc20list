@@ -38,6 +38,14 @@
       "symbol": "sTEA",
       "logoURI": "https://raw.githubusercontent.com/TeaGov/TeaGov/refs/heads/main/public/favicon.png",      
       "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0xD201edc80609c8f957d9EBbA0BA6b2f81eF47Ec8",
+      "name": "CLW",
+      "symbol": "CLW",
+      "logoURI": "https://raw.githubusercontent.com/clwkevin/LayerOS/refs/heads/main/layeros/public/clw2.png",      
+      "decimals": 18
     }
   ],
   "version": {
