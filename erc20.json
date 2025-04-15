@@ -30,6 +30,14 @@
       "symbol": "UNICORN",
       "logoURI": "https://raw.githubusercontent.com/rpxtxt/teaerc20list/refs/heads/main/unicorn.png",
       "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0x09bA156Aaf3505d07b6F82872b35D75b7A7d5032",
+      "name": "sTEA Token",
+      "symbol": "sTEA",
+      "logoURI": "https://raw.githubusercontent.com/TeaGov/TeaGov/refs/heads/main/public/favicon.png",      
+      "decimals": 18
     }
   ],
   "version": {
