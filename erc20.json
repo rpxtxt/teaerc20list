@@ -46,6 +46,14 @@
       "symbol": "CLW",
       "logoURI": "https://raw.githubusercontent.com/clwkevin/LayerOS/refs/heads/main/layeros/public/clw2.png",      
       "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0x0bBcedb44aD1E7850C110b83FdF2c34ed2f1dA36",
+      "name": "Tea Punks",
+      "symbol": "TPUNKS",
+      "logoURI": "https://raw.githubusercontent.com/rpxtxt/teaerc20list/refs/heads/main/punks.png",      
+      "decimals": 18
     }
   ],
   "version": {
