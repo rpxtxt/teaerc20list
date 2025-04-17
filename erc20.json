@@ -13,7 +13,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/rpxtxt/teaerc20list/refs/heads/main/usdt.png",
-      "decimals": 6
+      "decimals": 18
     },
     {
       "chainId": 10218,
