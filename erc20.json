@@ -10,6 +10,14 @@
     {
       "chainId": 10218,
       "address": "0x4a753E269Eae8C1Fe2a34F9F2aB32CA5c59D8f44",
+      "name": "USDT",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/rpxtxt/teaerc20list/refs/heads/main/usdt.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0x4a753E269Eae8C1Fe2a34F9F2aB32CA5c59D8f44",
       "name": "Polymer Capital",
       "symbol": "POLC",
       "logoURI": "https://raw.githubusercontent.com/rpxtxt/teaerc20list/refs/heads/main/crycapital.png",
