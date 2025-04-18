@@ -17,6 +17,14 @@
     },
     {
       "chainId": 10218,
+      "address": "0xD89455C62BeC95820cE048fbE0f2Ae900F18A2DC",
+      "name": "Fresh Tea",
+      "symbol": "FTEA",
+      "logoURI": "https://raw.githubusercontent.com/whisnusanjaya/freshtea/refs/heads/main/freshtea.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10218,
       "address": "0x4a753E269Eae8C1Fe2a34F9F2aB32CA5c59D8f44",
       "name": "Polymer Capital",
       "symbol": "POLC",
