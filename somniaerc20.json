@@ -8,7 +8,7 @@
   "timestamp": "2025-03-03T03:03:00.000+00:00",
   "tokens": [
     {
-      "chainId": 10218,
+      "chainId": 50312,
       "address": "0x2A9e2348D7a76aB21B8b26F4A7fe71A93e67A728",
       "name": "USDT",
       "symbol": "USDT",
@@ -16,15 +16,15 @@
       "decimals": 18
     },
     {
-      "chainId": 10218,
-      "address": "0x4a753E269Eae8C1Fe2a34F9F2aB32CA5c59D8f44",
-      "name": "Polymer Capital",
-      "symbol": "POLC",
+      "chainId": 50312,
+      "address": "0x3051Fc0019D793B8154d6029aA1a4A379F05E680",
+      "name": "Erpex Token",
+      "symbol": "EXT",
       "logoURI": "https://raw.githubusercontent.com/rpxtxt/teaerc20list/refs/heads/main/crycapital.png",
       "decimals": 18
     },
     {
-      "chainId": 10218,
+      "chainId": 50312,
       "address": "0x24aDbf4eb6bC731dE8b60E422f9006991Bec7a77",
       "name": "SONIC",
       "symbol": "SONIC",
@@ -32,19 +32,11 @@
       "decimals": 18
     },
     {
-      "chainId": 10218,
+      "chainId": 50312,
       "address": "0x2C9b543330FD9aCa73c05457f1d240360d6B262f",
       "name": "Unicorn Token",
       "symbol": "UNICORN",
       "logoURI": "https://raw.githubusercontent.com/rpxtxt/teaerc20list/refs/heads/main/unicorn.png",
-      "decimals": 18
-    },
-    {
-      "chainId": 10218,
-      "address": "0x0bBcedb44aD1E7850C110b83FdF2c34ed2f1dA36",
-      "name": "Tea Punks",
-      "symbol": "TPUNKS",
-      "logoURI": "https://raw.githubusercontent.com/rpxtxt/teaerc20list/refs/heads/main/punks.png",      
       "decimals": 18
     }
   ],
